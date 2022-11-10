@@ -1,1 +1,2 @@
 # nodejs-ddd-typescript
+# lnaidbe
