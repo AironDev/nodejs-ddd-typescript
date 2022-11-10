@@ -1,6 +1,0 @@
-::1 - - [29/Oct/2022:16:02:26 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-::1 - - [29/Oct/2022:16:06:48 +0000] "GET //api/v1/users HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-::1 - - [29/Oct/2022:16:07:02 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-::1 - - [29/Oct/2022:16:07:57 +0000] "GET /api/v1/users HTTP/1.1" 404 151 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-::1 - - [29/Oct/2022:16:08:15 +0000] "GET /api/v1/users HTTP/1.1" 404 151 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-::1 - - [29/Oct/2022:16:23:02 +0000] "GET /api/v1/users HTTP/1.1" 404 151 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
